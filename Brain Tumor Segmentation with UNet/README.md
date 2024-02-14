@@ -7,11 +7,11 @@ This repository contains the implementation of a UNet-based neural network for b
 The UNet architecture has been widely adopted in medical image segmentation tasks due to its effectiveness in capturing detailed features and spatial information. This implementation leverages UNet to accurately segment brain tumors from MRI scans
 by Flair type and Axial Position.
 
-![UNet Architecture](/images/u-net-architecture.png)
+![UNet Architecture](images/u-net-architecture.png)
 
-![MRI Types](/images/Axial-view-of-T1-T1ce-T2-and-Flair.png)
+![MRI Types](images/Axial-view-of-T1-T1ce-T2-and-Flair.png)
 
-![MRI Planes](/images/MRI position.png)
+![MRI Planes](images/MRI position.png)
 
 ## Requirements
 
