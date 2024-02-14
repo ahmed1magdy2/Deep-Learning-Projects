@@ -31,9 +31,9 @@ by Flair type and Axial Position.
 
 ### Install dependencies:
 
-'''python
-	pip install tensorflow keras numpy matplotlib opencv-python glop
-'''
+```python
+pip install tensorflow keras numpy matplotlib opencv-python glop
+```
 
 ## Dataset
 
