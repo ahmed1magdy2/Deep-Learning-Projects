@@ -31,13 +31,13 @@ by Flair type and Axial Position.
 
 ### Install dependencies:
 
-'''
+'''python
 pip install tensorflow keras numpy matplotlib opencv-python glop
 '''
 
 ## Dataset
 
-The model was trained and evaluated on the 'AlQasr-elainy Assiut Hospital', which provides MRI scans along with ground truth annotations for brain tumor segmentation.
+The model was trained and evaluated on the **AlQasr-elainy Assiut Hospital**, which provides MRI scans along with ground truth annotations for brain tumor segmentation.
 
 ## Results
 ![1.](images/1.png)
