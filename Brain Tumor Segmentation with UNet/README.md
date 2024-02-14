@@ -35,8 +35,8 @@ pip install tensorflow keras numpy matplotlib opencv-python glop
 The model was trained and evaluated on the [Assiut Hospital], which provides MRI scans along with ground truth annotations for brain tumor segmentation.
 
 ## Results
-![1.](/images/1.png)
+![1.](https://github.com/ahmed1magdy2/Deep-Learning-Projects/blob/main/Brain%20Tumor%20Segmentation%20with%20UNet/images/1.png)
 
-![2.](/images/2.png)
+![2.](https://github.com/ahmed1magdy2/Deep-Learning-Projects/blob/main/Brain%20Tumor%20Segmentation%20with%20UNet/images/2.png)
 
-![3.](/images/3.png)
+![3.](https://github.com/ahmed1magdy2/Deep-Learning-Projects/blob/main/Brain%20Tumor%20Segmentation%20with%20UNet/images/3.png)
